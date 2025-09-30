@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/tiktok.html/", "destination": "/tiktok.html", "status": 301 }
+  ]
+}
